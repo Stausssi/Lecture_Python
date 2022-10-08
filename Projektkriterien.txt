@@ -1,0 +1,19 @@
+Projektkriterien:
+Kernkriterien:
+(20%) - alle Funktionen und Module sowie Klassen müssen Docstrings nach z.B. Googole (Docstrings pep8) enthalten
+        -> Klassenbeschreibung soll Docstring für Konstruktor enthalten
+(10%) - alle Funktionen und Klassen müssen mindestens 2 Testbeschreibungen enthalten -> Keine Tests, nur Beschreibung (v.a. Konstruktor und Destruktor)
+
+Sidekritieren:
+(10%) - Eigenleistung: geeignetes Logverfahren suchen und anwenden (z. B. loguru)
+(20%) - Codequalität und Stil
+(20%) - Funktionalität (requirement information -> Module, Frameworks, Versionen, OS, ...)
+
+weitere Kriterien:
+- wir wollen am Ende kein kundenfähiges System!!
+(20%)
+- Programm selbsterklärend und intuitiv (Nicht Code, sondern Nutzerbezogen)
+- Besondere Bemühungen und Aufwand, Elemente (Sound, Grafikdateien, Gameplay, ...)
+- pi mal Daumen 48 Stunden zur Orientierung
+
+Bonuspunkte: (Copy-Paste vs. Eigenaufwand)
